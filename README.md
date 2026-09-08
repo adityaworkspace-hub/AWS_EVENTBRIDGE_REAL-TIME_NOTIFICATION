@@ -95,7 +95,7 @@ Step 09 - S3 Bucket Object Activity:
 
 Step 10 - S3 Event Email Notification Received:
 
-![S3 Email Alert](09_Email_Alert_S3_Events.png)
+![S3 Email Alert](09_Email_Alert_S3_Events.jpg)
 
 Step 11 - EC2 State Change Email Notification Received:
 
