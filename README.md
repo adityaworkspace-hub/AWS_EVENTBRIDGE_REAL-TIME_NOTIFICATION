@@ -1,4 +1,4 @@
-AWS EventBridge Real-Time Notification Architecture
+                              AWS EventBridge Real-Time Notification Architecture
 
 <p align="center">
   <img src="00_AWS_Architecture_Diagram.png" alt="AWS Architecture Diagram">
